@@ -1,4 +1,4 @@
-# Netflix Data Exploration
+# Data Exploration : EDA on Netflix Data from Kaggle
 
 <h3>Aim </h3>
 To create visualizations that showcases how content (Movies/TV shows) hosted on Netflix has
